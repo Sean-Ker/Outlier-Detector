@@ -132,4 +132,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-outlier_detector_boston_backup.ipynb
+
+/other
